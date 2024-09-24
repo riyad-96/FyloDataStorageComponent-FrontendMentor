@@ -286,7 +286,7 @@ footer {
   }
 }
 
-@keyframes fullWidt{
+@keyframes fullWidth{
   0%{
     width: 3%;
   }
